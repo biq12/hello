@@ -1,7 +1,7 @@
 
 <div style="margin: 100px auto;" >
 
-<h3 style="color:red;text-align:center;margin-bottom:70px;">Plannification des taches sur les sprints</h3>
+<h3 style="color:red;text-align:center;margin-bottom:70px;">Plannification des taches par  sprints</h3>
 <table width="800px" cellspacing="0" cellpadding="0">
     <tr bgcolor="#00FF00">
       <th>Sprint 0</th>
