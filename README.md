@@ -8,7 +8,7 @@
 	</tr>
 	<tr>
 		<td align="center">  
-		    14
+		    1
 		</td>
 		 <td>           
 	        En tant qu’utilisateur, je souhaite ajouter des diagrammes de conceptions.   
@@ -19,7 +19,7 @@
 	</tr>
 	<tr>
 		<td align="center">  
-		    15
+		   2
 		</td>
 		 <td>           
 	      En tant qu’utilisateur, je souhaite afficher  tout les diagrammes de conception et par type 
@@ -30,7 +30,7 @@
 	</tr>
 	<tr>
 		<td align="center">  
-		    16
+		   3
 		</td>
 		 <td>           
 	     16.	En tant qu’utilisateur, je souhaite  avoir des statistiques de productions par sprint. 
@@ -41,7 +41,7 @@
 	</tr>
 	<tr>
 		<td align="center">  
-		    17
+		   4
 		</td>
 		 <td>           
 	     	En tant qu’utilisateur, je souhaite  envoyer des emails aux membres d’équipe. 
@@ -52,7 +52,7 @@
 	</tr>
 	<tr>
 		<td align="center">  
-		    18
+		 5
 		</td>
 		 <td>           
 	     		En tant qu’utilisateur, je souhaite modifier les informations de mon profils 
@@ -63,7 +63,7 @@
 	</tr>
 	<tr>
 		<td align="center">  
-		    19
+		  6
 		</td>
 		 <td>           
 	     	    En tant qu’utilisateur, je veux que mon espace  soit  bien sécurisée.  
