@@ -74,7 +74,7 @@
 	</tr>
 	<tr>
 		<td align="center">  
-		    20
+		    7
 		</td>
 		 <td>           
 	     	    En tant que développeur, je veux faire les test unitaires .
