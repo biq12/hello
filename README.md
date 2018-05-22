@@ -6,8 +6,6 @@
 		<th width="600px">User story</th> 
 		<th width="100px">Effort</th>
 	</tr>
-
-
 	<tr>
 		<td align="center">  
 		    14
@@ -85,13 +83,4 @@
 		     5
 		 </td>
 	</tr>
-	
-	
-	
-	
-	
-	
-	
-	
-	
 </table>
