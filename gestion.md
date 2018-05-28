@@ -272,18 +272,9 @@
 		    9
 		 </td>
 	</tr>
+</table>
 
-	
-	
-	
-	
-	
-	
-	<h1>Plannification de Sprint 1</h1>
-	
-
-
-
+<h1>Plannification de Sprint 1</h1>
 
 
 <h1 style="color:red;text-align:center;">Tache de Sprint 1 <h1>
