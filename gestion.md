@@ -4,8 +4,8 @@
 	<tr bgcolor="#00FF00">
 		<th width="40px">Id</th>
 		<th width="600px">User story</th> 
-		<th width="100px">Cout</th>
 		<th width="100px">Priorité</th>
+		<th width="100px">Cout</th>
 	</tr>
 	<tr>
 		<td align="center">  
@@ -14,8 +14,11 @@
 		 <td>           
 	              En tant qu’utilisateur, je souhaite  s’inscrire/authentifier à l’application afin d’accéder à mon espace propre	
 		 </td>
+		 <td align="center">
+		        1
+		  </td>
 		    <td align="center">
-		  5
+		        5
 		  </td>
 	</tr>
 	<tr>
@@ -25,6 +28,9 @@
 		 <td>           
 	              En tant qu’utilisateur, je souhaite  gérer (ajouter, modifier, supprimer)   mes projets.
 		 </td>
+		 <td align="center">
+		        1
+		  </td>
 		 <td align="center">
 		     9
 		 </td>
