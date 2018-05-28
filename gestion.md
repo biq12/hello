@@ -4,7 +4,8 @@
 	<tr bgcolor="#00FF00">
 		<th width="40px">Id</th>
 		<th width="600px">User story</th> 
-		<th width="100px">Effort</th>
+		<th width="100px">Cout</th>
+		<th width="100px">Priorité</th>
 	</tr>
 	<tr>
 		<td align="center">  
