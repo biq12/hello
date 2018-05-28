@@ -98,6 +98,9 @@
 	          En tant qu’utilisateur, je souhaites entrer les informations du client de projet                                      
 		</td>
 		 <td align="center">
+		        3
+		  </td>
+		 <td align="center">
 		     4
 		 </td>
 	</tr>
@@ -108,6 +111,9 @@
 		 <td>           
 	           En tant qu’utilisateur, je souhaite lister les  taches par projet                                     
 		</td>
+		 <td align="center">
+		        3
+		  </td>
 		 <td align="center">
 		     4
 		 </td>
@@ -120,6 +126,9 @@
 	          En tant qu’utilisateur, je souhaite rechercher une tache par id ou par désignation                                    
 		</td>
 		 <td align="center">
+		        3
+		  </td>
+		 <td align="center">
 		     2
 		 </td>
 	</tr>
@@ -130,6 +139,9 @@
 		 <td>           
 	        En tant qu’utilisateur, je souhaite rechercher une tache  entre deux dates .                                
 		</td>
+		 <td align="center">
+		        3
+		  </td>
 		 <td align="center">
 		     2
 		 </td>
@@ -142,6 +154,9 @@
 	          En tant qu’utilisateur, je souhaite effectuer une tache à un membre d’équipe                               
 		</td>
 		 <td align="center">
+		        3
+		  </td>
+		 <td align="center">
 		     2
 		 </td>
 	</tr>
@@ -153,6 +168,9 @@
 	        12.	En tant qu’utilisateur, je souhaite diviser les taches par sprint.                             
 		</td>
 		 <td align="center">
+		        3
+		  </td>
+		 <td align="center">
 		     3
 		 </td>
 	</tr>
@@ -163,6 +181,9 @@
 		 <td>           
 	         En tant qu’utilisateur, je souhaite  afficher les taches par sprint et afficher tous les sprints  de chaque projet     
 		</td>
+		 <td align="center">
+		        3
+		  </td>
 		 <td align="center">
 		     4
 		 </td>
