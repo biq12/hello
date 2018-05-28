@@ -274,72 +274,73 @@
 	</tr>
 </table>
 
+<h1 style="color:red;text-align:center;">Plannification des Sprints </h1>
 
+<h1 style="color:red;text-align:center;">Sprint 1 </h1>
 
-<h1 style="color:red;text-align:center;">Backloag de Sprint 1 <h1>
 <table width="800px" cellspacing="0" cellpadding="0">
-      <tr bgcolor="#00FF00">
-        <th>Id</th>
-        <th>User story</th> 
-        <th>Effort</th>
-      <th>Developpeur</th>
-      </tr>
-      <tr>
-        <td align="center">  
-        1
-        </td>
-         <td>           
-                    En tant qu’utilisateur, je souhaite  s’inscrire/authentifier à l’application afin d’accéder à mon espace propre	
-         </td>
-         <td align="center">
-          5
-         </td>
-	  <td>
-           laouina oumaima
-         </td>
-      </tr>
-      <tr>
-        <td align="center">  
-            2
-        </td>
-         <td>           
-                    En tant qu’utilisateur, je souhaite  gérer (ajouter, modifier, supprimer)   mes projets.
-         </td>
-         <td align="center">
-             9
-         </td>
-	  <td>
-            BIQ KHALID
-         </td>
-      </tr>
-      <tr>
-        <td align="center">  
-            3
-        </td>
-         <td>           
-                En tant qu’utilisateur, je souhaite gérer (ajouter, modifier, supprimer) des taches à mes projets ( backloag ). 
-         </td>
-         <td align="center">
-             9
-         </td>
-	  <td>
-           Agoujil Zineb
-         </td>
-      </tr>
-      <tr>
-        <td align="center">  
-            4
-        </td>
-         <td>           
-     En tant qu’utilisateur, je souhaite Entrer les informations des personnes qui travailleront en collaboration avec moi.
-        </td>
-         <td align="center">
-             4
-         </td>
-	  <td>
-          Bahmad Ayoub
-         </td>
-      </tr>
+	<tr bgcolor="#00FF00">
+		<th width="40px">Id</th>
+		<th width="600px">User story</th> 
+		<th width="100px">Priorité</th>
+		<th width="100px">Cout</th>
+	</tr>
+	<tr>
+		<td align="center">  
+		1
+		</td>
+		 <td>           
+	              En tant qu’utilisateur, je souhaite  s’inscrire/authentifier à l’application afin d’accéder à mon espace propre	
+		 </td>
+		 <td align="center">
+		        1
+		  </td>
+		    <td align="center">
+		        5
+		  </td>
+	</tr>
+	<tr>
+		<td align="center">  
+		    2
+		</td>
+		 <td>           
+	              En tant qu’utilisateur, je souhaite  gérer (afficher,ajouter, modifier, supprimer)   mes projets.
+		 </td>
+		 <td align="center">
+		        1
+		  </td>
+		 <td align="center">
+		     9
+		 </td>
+	</tr>
+	<tr>
+		<td align="center">  
+		    3
+		</td>
+		 <td>           
+	          En tant qu’utilisateur, je souhaite gérer (afficher,ajouter, modifier, supprimer) des taches à mes projets ( backloag ). 
+		 </td>
+		 <td align="center">
+		        2
+		  </td>
+		 <td align="center">
+		     9
+		 </td>
+	</tr>
+	<tr>
+		<td align="center">  
+		    4
+		</td>
+		 <td>           
+	           En tant qu’utilisateur, je souhaite Entrer les informations des personnes qui travailleront en collaboration avec        moi.
+		</td>
+		 <td align="center">
+		        2
+		  </td>
+		 <td align="center">
+		     4
+		 </td>
+	</tr>
   </table>
   
   
@@ -490,7 +491,7 @@
 </table>
   
   
-  <h1 style="color:red;text-align:center;">Backlog de Sprint 3 </h1>
+  <h1 style="color:red;text-align:center;">Sprint 3 :</h1>
 
 <table width="800px" cellspacing="0" cellpadding="0">
 	<tr bgcolor="#00FF00">
