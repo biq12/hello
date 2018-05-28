@@ -248,14 +248,14 @@
 		<td align="center">  
 		    18
 		</td>
-		 <td align="center">
-		        4
-		  </td>
 		 <td>           
 	     		En tant qu’utilisateur, je souhaite modifier les informations de mon profils 
 		</td>
 		 <td align="center">
 		        5
+		  </td>
+		 <td align="center">
+		        4
 		  </td>
 		 <td align="center">
 		     3
