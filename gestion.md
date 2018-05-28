@@ -43,6 +43,9 @@
 	          En tant qu’utilisateur, je souhaite gérer (ajouter, modifier, supprimer) des taches à mes projets ( backloag ). 
 		 </td>
 		 <td align="center">
+		        2
+		  </td>
+		 <td align="center">
 		     9
 		 </td>
 	</tr>
@@ -54,6 +57,9 @@
 	           En tant qu’utilisateur, je souhaite Entrer les informations des personnes qui travailleront en collaboration avec        moi.
 		</td>
 		 <td align="center">
+		        2
+		  </td>
+		 <td align="center">
 		     4
 		 </td>
 	</tr>
@@ -62,7 +68,10 @@
 		    5
 		</td>
 		 <td>           
-	     En tant qu’utilisateur, je souhaite définir les membres d’équipe d’un projet master scrum  etc…	                                          </td>
+	     En tant qu’utilisateur, je souhaite définir les membres d’équipe d’un projet master scrum                                            </td>
+		 <td align="center">
+		        3
+		  </td>
 		 <td align="center">
 		     4
 		 </td>
@@ -74,6 +83,9 @@
 		 <td>           
 	     	En tant qu’utilisateur, je souhaite  savoir la progression de travail                                         
 		</td>
+		 <td align="center">
+		        3
+		  </td>
 		 <td align="center">
 		     5
 		 </td>
