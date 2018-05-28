@@ -257,9 +257,6 @@
 		 <td align="center">
 		        4
 		  </td>
-		 <td align="center">
-		     3
-		 </td>
 	</tr>
 	<tr>
 		<td align="center">  
