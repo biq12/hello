@@ -26,7 +26,7 @@
 		    2
 		</td>
 		 <td>           
-	              En tant qu’utilisateur, je souhaite  gérer (ajouter, modifier, supprimer)   mes projets.
+	              En tant qu’utilisateur, je souhaite  gérer (afficher,ajouter, modifier, supprimer)   mes projets.
 		 </td>
 		 <td align="center">
 		        1
@@ -40,7 +40,7 @@
 		    3
 		</td>
 		 <td>           
-	          En tant qu’utilisateur, je souhaite gérer (ajouter, modifier, supprimer) des taches à mes projets ( backloag ). 
+	          En tant qu’utilisateur, je souhaite gérer (afficher,ajouter, modifier, supprimer) des taches à mes projets ( backloag ). 
 		 </td>
 		 <td align="center">
 		        2
