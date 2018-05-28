@@ -266,26 +266,13 @@
 	     	    En tant qu’utilisateur, je veux que mon espace  soit  bien sécurisée.  
 		</td>
 		<td align="center">
-		        4
+		        9
 		  </td>
 		 <td align="center">
 		     3
 		 </td>
 	</tr>
-	<tr>
-		<td align="center">  
-		    20
-		</td>
-		 <td>           
-	     	    En tant que développeur, je veux faire les test unitaires .
-		</td>
-		 <td align="center">
-		        4
-		  </td>
-		 <td align="center">
-		     5
-		 </td>
-	</tr>
+
 	
 	
 	
