@@ -266,10 +266,10 @@
 	     	    En tant qu’utilisateur, je veux que mon espace  soit  bien sécurisée.  
 		</td>
 		<td align="center">
-		        9
+		      5
 		  </td>
 		 <td align="center">
-		     3
+		    9
 		 </td>
 	</tr>
 
