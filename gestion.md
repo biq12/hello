@@ -328,7 +328,7 @@
             4
         </td>
          <td>           
-                 En tant qu’utilisateur, je souhaite Entrer les informations des personnes qui travailleront en collaboration avec        moi.
+     En tant qu’utilisateur, je souhaite Entrer les informations des personnes qui travailleront en collaboration avec moi.
         </td>
          <td align="center">
              4
@@ -337,7 +337,6 @@
           Bahmad Ayoub
          </td>
       </tr>
-
   </table>
   
 
